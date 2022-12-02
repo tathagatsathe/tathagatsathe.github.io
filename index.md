@@ -4,6 +4,8 @@
 - Conducted exploratory data analysis using Python to find factors that correlated to high popularity.
 - Constructed a Kmeans clustering model to categorize songs.
 
+{% include temp-plot.html %}
+
 
 # [Twitter Sentiment Analysis](https://github.com/tathagatsathe/twitter-sentiment-analysis)
 - Designed and implemented a Real time sentiment analysis on tweets for a particular topic. 
