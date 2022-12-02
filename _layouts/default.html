@@ -10,15 +10,14 @@
     <title>{{ page.title }}</title>
     
   </head>
-  
-  <div id="header_wrap" class="outer">
+
+  <body>
+    <div id="header_wrap" class="outer">
         <header class="inner">
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         </header>
-   </div>
-  <body>
-    <h1>{{ page.title }}</h1>
+    </div>
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
