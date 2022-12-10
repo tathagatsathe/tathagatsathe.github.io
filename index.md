@@ -13,3 +13,9 @@
 - Cleaned parsed and segmented tweets content and stored them in MySQL database.
 - Implemented Stanford NLP library to determine sentiment polarity of the tweets.
 - Displayed the tweets with sentiment on frontend.
+
+
+# [Wikipedia Traffic Forecasting](https://github.com/tathagatsathe/WikipediaTrafficForecasting)
+- Utilized exploratory data analysis techniques to identify patterns, relationships, and trends. 
+- Developed ARIMA and LSTM model to forecasting future web traffic for more than 145,000 wikipedia articles.
+- Deployed the model using AWS Sagemaker.
