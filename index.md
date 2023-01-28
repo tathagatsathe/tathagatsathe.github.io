@@ -14,6 +14,10 @@
 - Implemented Stanford NLP library to determine sentiment polarity of the tweets.
 - Displayed the tweets with sentiment on frontend.
 
+# [Real-time Face Mask Detection](https://github.com/tathagatsathe/FaceMaskDetection)
+- Built a real-time face mask detection model.
+- Developed the deep learning model using Convolution Neural Networks and Performed Transfer Learning to achieve high accuracy.
+- Achieved 99% accuracy and deployed model for real-world face mask detection.
 
 # [Wikipedia Traffic Forecasting](https://github.com/tathagatsathe/WikipediaTrafficForecasting)
 - Utilized exploratory data analysis techniques to identify patterns, relationships, and trends. 
