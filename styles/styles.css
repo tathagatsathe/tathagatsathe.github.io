@@ -66,7 +66,8 @@ body {
   border: 2px solid black;
   text-align: center;
   /* color: whitesmoke; */
-  /* background-color: gray; */
+  /* background-color: #f2f2f2; */ 
+
 }
 #profile a {
   display: block;
@@ -170,7 +171,7 @@ body {
   #education p.degree {
     font-size: x-small;
   }
-  #experience {
+  #experience, #aboutme {
     padding: 10px;
   }
   #experience li {
@@ -188,6 +189,9 @@ body {
   }
   #certications .degree {
     margin: 15px 0px;
+    font-size: small;
+  }
+  #experience li,#aboutme .section-body p {
     font-size: small;
   }
 }
