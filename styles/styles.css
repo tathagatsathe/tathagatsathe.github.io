@@ -196,7 +196,7 @@ body {
   }
 }
 #education, #experience {
-  height: 450px;
+  min-height: 450px;
 }
 
 #education p {
