@@ -321,7 +321,8 @@
   .colorlib-lead {
             font-size: 20px;
             color: #fff; }
-          #colorlib-hero .flexslider .slider-text > .slider-text-inner p {
+          #colorlib-hero .flexslider .slider-text > .slider-text-inner 
+           {
             margin-bottom: 0; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
             font-size: 12px;
@@ -963,6 +964,8 @@
         display: block;
         position: relative;
         height: 300px; }
+        .project .desc .con p{
+          font-weight: bold;}
         .project .desc .con .icon {
           position: absolute;
           bottom: 20px;
